@@ -11,3 +11,14 @@
 ``` bash
     git add <archivo>
 ```
+
+- Configuramos el usuario
+``` bash
+    git config user.name "Jonathan Cruz"
+    git config user.email jonathan.cruz@davinci.edu.ar
+```
+
+- Agregamos el Repositorio remoto
+``` bash
+git remote add origin https://github.com/jonathancruzdev/so-t4st.git
+```
